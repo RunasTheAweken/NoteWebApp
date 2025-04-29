@@ -40,6 +40,7 @@ This project is designed as a pet project to demonstrate CRUD operations, depend
 - **SQL Server** – Relational database
 - **Serilog** – Logging framework (console/debug)
 - **Swagger / OpenAPI** – API documentation and testing
+- **BCrypt** - Crypting libary
 - **C#** – Programming language
 
 ---
