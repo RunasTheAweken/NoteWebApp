@@ -212,10 +212,3 @@ Fork the repository, create a feature branch, and open a pull request.
 This project is licensed under the **MIT License**.
 
 ---
-
-## 📬 Contact
-
-For questions or feedback, contact [your-username] on GitHub or via email at [your-email@example.com].
-```
-
----
