@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4/qjHgBHC0I=",
+  "dgSpecHash": "bDaZ/m91Xn4=",
   "success": true,
-  "projectFilePath": "D:\\Worksapce\\C#\\New folder\\New folder.csproj",
+  "projectFilePath": "D:\\Worksapce\\C#\\New folder\\NoteWebApp\\New folder.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\runas\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\runas\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
