@@ -6,23 +6,6 @@ This project is designed as a pet project to demonstrate CRUD operations, depend
 
 ---
 
-## 🧭 Table of Contents
-
-- [Features](#features)
-- [Technologies](#technologies)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [API Endpoints](#api-endpoints)
-  - [User Endpoints](#user-endpoints)
-  - [Note Endpoints](#note-endpoints)
-- [Project Structure](#project-structure)
-- [Security Notes](#security-notes)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
----
-
 ## ✨ Features
 
 ### 👤 User Management
