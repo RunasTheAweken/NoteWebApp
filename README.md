@@ -33,7 +33,7 @@ Technologies
 
 ASP.NET Core 8.0: Web framework for building the API.
 Entity Framework Core: ORM for database operations.
-SQL Server: Relational database for storing users and notes.
+MSSQL Server: Relational database for storing users and notes.
 Serilog: Logging framework (configurable via console and debug output).
 Swagger/OpenAPI: API documentation and testing interface.
 C#: Programming language.
