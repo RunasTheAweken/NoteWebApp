@@ -1,4 +1,3 @@
----
 
 ```md
 # 📘 Notes API
@@ -6,25 +5,6 @@
 **Notes API** is a RESTful web API built with ASP.NET Core that allows users to register, manage profiles, and create, update, retrieve, and delete notes.  
 
 This project is designed as a pet project to demonstrate CRUD operations, dependency injection, logging, and basic security practices in ASP.NET Core.
-
----
-
-## 🧭 Table of Contents
-
-- [Features](#features)
-- [Technologies](#technologies)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [API Endpoints](#api-endpoints)
-  - [User Endpoints](#user-endpoints)
-  - [Note Endpoints](#note-endpoints)
-- [Project Structure](#project-structure)
-- [Security Notes](#security-notes)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
----
 
 ## ✨ Features
 
