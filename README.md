@@ -183,6 +183,8 @@ NotesApi/
 │   ├── Note.cs                   # Note entity and DTOs
 ├── Context/
 │   ├── MyDbContext.cs            # EF Core DbContext
+├── Services/
+    ├── Hasher.cs                 # Service Hasher
 ├── Program.cs                    # Application entry point
 ├── appsettings.json              # Configuration
 └── README.md                     # This file
